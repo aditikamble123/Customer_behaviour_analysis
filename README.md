@@ -15,7 +15,7 @@ customer-behaviour-analytics/
 ├── CUSTOMER.pbix                      # Power BI dashboard
 └── Customer_Shopping_Report_INR.pdf   # Auto-generated analytics report (INR)
 ```
-<img width="1920" height="1080" alt="Screenshot (1034)" src="https://github.com/user-attachments/assets/63a8063a-216e-4e7c-bfb9-e102afda3de8" />
+<img width="883" height="500" alt="Screenshot 2026-04-01 at 12 27 36 AM" src="https://github.com/user-attachments/assets/0343a06a-23c2-4c42-84d5-6a5d43c98e18" />
 
 ---
 
