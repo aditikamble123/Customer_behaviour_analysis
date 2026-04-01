@@ -179,6 +179,13 @@ python generate_report.py
 ```
 
 ---
+🙏 Credits
+This project was built with reference to and inspired by the work of Amlan Mohanty:
+
+customer-trends-data-analysis-SQL-Python-PowerBI
+by @amlanmohanty1
+
+The original repository provided the foundational dataset, SQL query structure, Python EDA approach, and Power BI dashboard design that made this project possible. Full credit goes to the author for their excellent work.
 
 ## 📌 Notes
 
